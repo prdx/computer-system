@@ -5,4 +5,4 @@ Submodule:
 1. Quicksort: quicksort implementation in assembly
 2. mini-checkpoint: checkpoint program to save context in CPU and readable memory and restore it
 
-Full descriptions: http://www.ccs.neu.edu/home/kapil/courses/cs5600sp18/
+I am making the submodules private repository. Email for request for each submodules you want.
