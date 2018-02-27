@@ -1,0 +1,6 @@
+[submodule "Quicksort"]
+	path = Quicksort
+	url = https://github.com/prdx/Quicksort
+[submodule "mini-checkpoint"]
+	path = mini-checkpoint
+	url = https://github.com/prdx/mini-checkpoint
