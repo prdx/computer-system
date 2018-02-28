@@ -4,3 +4,6 @@
 [submodule "mini-checkpoint"]
 	path = mini-checkpoint
 	url = https://github.com/prdx/mini-checkpoint
+[submodule "malloclib-1"]
+	path = malloclib-1
+	url = https://github.com/prdx/malloclib-1
