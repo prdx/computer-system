@@ -7,3 +7,12 @@
 [submodule "malloclib-1"]
 	path = malloclib-1
 	url = https://github.com/prdx/malloclib-1
+[submodule "malloclib-2"]
+	path = malloclib-2
+	url = https://github.com/prdx/malloclib-2
+[submodule "KVData"]
+	path = KVData
+	url = https://github.com/prdx/KVData
+[submodule "RAM-CPU-Benchmarking"]
+	path = RAM-CPU-Benchmarking
+	url = https://github.com/prdx/RAM-CPU-Benchmarking
